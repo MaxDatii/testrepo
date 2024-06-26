@@ -1,2 +1,4 @@
 # testrepo
-Repository tfor GIT tests
+Repository for GIT tests.
+
+update for the second commit.
